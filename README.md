@@ -1,2 +1,2 @@
 # project_precise_syringe
-An automated precise syringe pump design
+An automated precise syringe dispenser design
